@@ -2,7 +2,7 @@
 
 💓 List of recommended addons in Addonify plugin's settings page. 
 
-### 12 December, 2022
+### 15 December, 2022
 
 - Added: Addoonify wishlist
 - Added: Addonify Compare
