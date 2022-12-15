@@ -1,0 +1,44 @@
+{
+    "author": "Addonify",
+    "version": "1.0.0",
+    "license": "MIT",
+    "data": [
+        {
+            "hot": [
+                {
+                    "addonify-quick-view": [
+                        {
+                            "thumb": "https://ps.w.org/addonify-quick-view/assets/icon-256x256.png"
+                        }
+                    ],
+                    "addonify-compare-products": [
+                        {
+                            "thumb": "https://ps.w.org/addonify-compare-products/assets/icon-256x256.png"
+                        }
+                    ],
+                    "addonify-wishlist": [
+                        {
+                            "thumb": "https://ps.w.org/addonify-wishlist/assets/icon-256x256.png"
+                        }
+                    ],
+                    "addonify-floating-cart": [
+                        {
+                            "thumb": "https://ps.w.org/addonify-floating-cart/assets/icon-256x256.png"
+                        }
+                    ],
+                    "simple-gdpr-cookie-compliance": [
+                        {
+                            "thumb": "https://ps.w.org/simple-gdpr-cookie-compliance/assets/icon-256x256.png"
+                        }
+                    ],
+                    "universal-google-adsense-and-ads-manager": [
+                        {
+                            "thumb": "https://ps.w.org/universal-google-adsense-and-ads-manager/assets/icon-256x256.png"
+                        }
+                    ]
+                }
+            ],
+            "general": []
+        }
+    ]
+}
