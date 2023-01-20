@@ -4,12 +4,6 @@
     "license": "MIT",
     "data": {
         "hot": {
-            "akismet": {
-                "name": "Akismet Spam Protection",
-                "description": "The best anti-spam protection to block spam comments and spam in a contact form. The most trusted antispam solution for WordPress and WooCommerce...",
-                "thumbnail": "https://ps.w.org/akismet/assets/icon-128x128.png",
-                "status": ""
-            },
             "addonify-quick-view": {
                 "name": "Addonify Quick View For WooCommerce",
                 "description": "Addonify WooCommerce Quick View plugin adds functionality to have a WooCommerce product quick preview on a modal window...",
