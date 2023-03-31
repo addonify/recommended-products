@@ -8,36 +8,42 @@
                 "name": "Addonify Quick View For WooCommerce",
                 "description": "Addonify WooCommerce Quick View plugin adds functionality to have a WooCommerce product quick preview on a modal window...",
                 "thumbnail": "https://ps.w.org/addonify-quick-view/assets/icon-256x256.png",
+                "category": "WooCommerce",
                 "status": ""
             },
             "addonify-compare-products": {
                 "name": "Addonify Compare Products For WooCommerce",
                 "description": "Addonify Compare Products is a WooCommerce extension that allows website visitors to compare multiple products on your online store...",
                 "thumbnail": "https://ps.w.org/addonify-compare-products/assets/icon-256x256.png",
+                "category": "WooCommerce",
                 "status": ""
             },
             "addonify-wishlist": {
                 "name": "Addonify Wishlist For WooCommerce",
                 "description": "Addonify WooCommerce Wishlist is a light-weight yet powerful tool that adds a wishlist functionality to your e-commerce shop...",
                 "thumbnail": "https://ps.w.org/addonify-wishlist/assets/icon-256x256.png",
+                "category": "WooCommerce",
                 "status": ""
             },
             "addonify-floating-cart": {
                 "name": "Addonify Floating Cart For WooCommerce",
                 "description": "Addonify Floating Cart is a free WooCommerce addon that adds an interactive sticky shopping cart on your website allowing your visitors no need to go to cart paeg...",
                 "thumbnail": "https://ps.w.org/addonify-floating-cart/assets/icon-256x256.png",
+                "category": "WooCommerce",
                 "status": ""
             },
             "simple-gdpr-cookie-compliance": {
                 "name": "Simple GDPR Cookie Compliance",
                 "description": "Simple GDPR Cookie Compliance is a simple notifier to inform users that your site uses of cookies and show your complies with EU GDPR cookie law and...",
                 "thumbnail": "https://ps.w.org/simple-gdpr-cookie-compliance/assets/icon-256x256.png",
+                "category": "Cookie",
                 "status": ""
             },
             "universal-google-adsense-and-ads-manager": {
                 "name": "Universal Google Adsense & Ads Manager",
                 "description": "Universal Google Adsense and Ads manager is a flexible easy to use Google Adsense, custom ads & script manager WordPress plugin...",
                 "thumbnail": "https://ps.w.org/universal-google-adsense-and-ads-manager/assets/icon-256x256.png",
+                "category": "Advertising",
                 "status": ""
             }
         },
