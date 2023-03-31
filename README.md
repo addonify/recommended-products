@@ -2,7 +2,7 @@
 
 💓 List of recommended addons in Addonify plugin's settings page. 
 
-### 31 March, 2022
+### 31 March, 2023
 
 - Added: Category property for product schema.
 
