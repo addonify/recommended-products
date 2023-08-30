@@ -7,7 +7,7 @@
             "addonify-quick-view": {
                 "name": "Addonify Quick View For WooCommerce",
                 "description": "Addonify WooCommerce Quick View plugin adds functionality to have a WooCommerce product quick preview on a modal window...",
-                "thumbnail": "https://ps.w.org/addonify-quick-view/assets/icon-256x256.png",
+                "thumbnail": "https://ps.w.org/addonify-quick-view/assets/icon-256x256.gif?rev=2958285",
                 "category": "WooCommerce",
                 "status": ""
             },
@@ -35,7 +35,7 @@
             "simple-gdpr-cookie-compliance": {
                 "name": "Simple GDPR Cookie Compliance",
                 "description": "Simple GDPR Cookie Compliance is a simple notifier to inform users that your site uses of cookies and show your complies with EU GDPR cookie law and...",
-                "thumbnail": "https://ps.w.org/simple-gdpr-cookie-compliance/assets/icon-256x256.png",
+                "thumbnail": "https://ps.w.org/simple-gdpr-cookie-compliance/assets/icon-256x256.png?rev=2953089",
                 "category": "Cookie",
                 "status": ""
             },
