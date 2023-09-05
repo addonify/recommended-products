@@ -2,6 +2,14 @@
 
 💓 List of recommended addons in Addonify plugin's settings page. 
 
+### 05 September, 2023
+
+- Updated: Universal Google adsense & ads manager thumbnail link.
+
+### 04 September, 2023
+
+- Updated: Compare products thumbnail link.
+
 ### 30 August, 2023
 
 - Updated: Thumbnail link of quick view & simple gdpr cookie compliance plugins.
